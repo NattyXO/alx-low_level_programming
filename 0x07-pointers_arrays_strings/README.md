@@ -1,11 +1,6 @@
 # Even more pointers, arrays and strings
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about pointers and arrays in **C language**.
-
-## Technologies
-* C files are compiled using `gcc 4.8.4`
-* C files are written according to the C90 standard
-* Tested on Ubuntu 14.04 LTS
+Project done during **Full Stack Software Engineering studies** at **ALX School**. It aims to learn about pointers and arrays in **C language**.
 
 ## Files
 All of the following files are programs written in C:
@@ -21,4 +16,4 @@ All of the following files are programs written in C:
 | `7-print_chessboard.c` | Prints the chessboard |
 | `8-print_diagsums.c` | Prints the sum of the two diagonals of a square matrix of integers |
 | `9-set_string.c` | Sets the value of a pointer to a char |
-| `101-crackme_password.c` | Contains the password for the `crackme2` executable |
+| `101-crackme_password` | Contains the password for the `crackme2` executable |
